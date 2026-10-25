@@ -4,3 +4,4 @@ Stapler 11
 Tape 60
 new products : labels 300
 Envelopes 500
+rubber bands 500
