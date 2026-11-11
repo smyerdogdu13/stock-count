@@ -1,4 +1,18 @@
-# stock-count
+## Who does what
+
+| Who | What |
+| --- | --- |
+| Selin | owns the count, merges pull requests |
+| Kaan | counts, reviews pull requests |
+
+## Read the history
+
+Every line of the count has a commit behind it:
+
+```
+git log --oneline count.txt
+git blame count.txt
+```# stock-count
 
 The stock count of Selin's warehouse: every product, with its number.
 
